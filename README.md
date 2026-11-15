@@ -6,8 +6,8 @@
 
 <p>
   <img src="images/01.png" width="32%">
+  <img src="images/02.png" width="32%">
   <img src="images/03.png" width="32%">
-  <img src="images/04.png" width="32%">
 </p>
 
 ## 能处理的照片
