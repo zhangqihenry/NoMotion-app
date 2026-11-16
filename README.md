@@ -1,6 +1,10 @@
 # NoMotion
 
-安卓应用，删除动态照片里的视频，只留下照片。图像一个字节都不动。
+Live 图我很喜欢，平时拍照都是默认打开 Live 图开关。孩子吹蜡烛那一下，猫回头那一下，三秒视频比一张照片多出好多东西。
+
+可更多时候拍照只是为了记一下：车停在 B2 哪根柱子，餐厅的菜单，会议的白板……这些照片前后那三秒并无意义，却要多占几 MB 甚至十几 MB 的空间。
+
+所以做了个安卓 App 叫 NoMotion，专门用来去掉 Live 图里的视频。图像一个字节都不动。
 
 这个仓库只用来发布安装包，到 [Releases](https://github.com/zhangqihenry/NoMotion-app/releases/latest) 下载最新版。
 
@@ -11,6 +15,10 @@
 </p>
 
 ## 能处理的照片
+
+目前主要支持 vivo 手机，其他品牌支持有限。用别的手机又想用的朋友，可以在 [Issues](https://github.com/zhangqihenry/NoMotion-app/issues) 里留言，发几张自己手机拍的 Live 图原文件给我研究。
+
+已经认得的有：
 
 - vivo 的 Live 照片
 - 谷歌 Motion Photo 格式的动态照片
